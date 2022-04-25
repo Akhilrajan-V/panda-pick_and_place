@@ -1,7 +1,7 @@
 # panda-pick_and_place
 This code is modified from the [Moveit pick and place tutorial](http://docs.ros.org/en/kinetic/api/moveit_tutorials/html/doc/pick_place/pick_place_tutorial.html).
 
-![output image](/outputs/output.gif) 
+![output image](/outputs/output_dif_view.gif) 
 
 1. Download this repository into moveit workspace. Then catkin build or catkin_make.
 2. Open terminal and launch moveit demo.launch using,
